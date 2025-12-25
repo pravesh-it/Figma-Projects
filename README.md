@@ -5,3 +5,5 @@
 * 4th Prototype - Water Bottle Prototype Link - https://www.figma.com/proto/Heuz8AzdowqtO9N6Ue2XYo/Water-Bottle-Prototype?node-id=0-1&t=dPXsqKMPaS1dfmsg-1
 * 5th Prototype - Servo Hospital Prototype Link - https://www.figma.com/proto/qK43pXYUD7xjZ7Roudl1bI/Servo-Hospital-Prototype?node-id=0-1&t=uzqkJIPALnPLoUAK-1
 * 6th Prototype - Rolls Royce Website Prototype Link - https://www.figma.com/proto/PxsvOVTLZQOzNaKorEOX6p/Rolls-Royce-Website-Prototype?node-id=0-1&t=Lpgw67hl6cOr9HQW-1
+* 7th Prototype - Pocket Wish App Prototype Link - https://www.figma.com/proto/LVndnUhvSG0PdDnq2VxnOW/Pocket-Wish-App-Prototype?node-id=0-1&t=CVRFOuXCCGsEILBS-1
+* 8th Prototype - 52 Syndaze Website Prototype Link - https://www.figma.com/proto/KljxzEs9bXl7GG1alvbKil/52-Sundaze-Website?node-id=0-1&t=901YcDmroapwdMXr-1
